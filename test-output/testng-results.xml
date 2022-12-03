@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Navigated to Browser:chrome URL: https://electronics.demos.mv.cs-cart.com/4dc1c88e4fe36f88/?_ga=2.200140142.1504236807.1660864797-236615256.1659200917]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-19T07:21:21 MYT" name="Default suite" finished-at="2022-08-19T07:21:28 MYT" duration-ms="6781">
+    <groups>
+    </groups>
+    <test started-at="2022-08-19T07:21:21 MYT" name="Default test" finished-at="2022-08-19T07:21:28 MYT" duration-ms="6781">
+      <class name="healthCheck.TC_HealthCheck">
+        <test-method signature="t_01_cscart_search()[pri:0, instance:healthCheck.TC_HealthCheck@f478a81]" started-at="2022-08-19T07:21:21 MYT" name="t_01_cscart_search" finished-at="2022-08-19T07:21:28 MYT" duration-ms="6720" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Browser:chrome URL: https://electronics.demos.mv.cs-cart.com/4dc1c88e4fe36f88/?_ga=2.200140142.1504236807.1660864797-236615256.1659200917]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t_01_cscart_search -->
+      </class> <!-- healthCheck.TC_HealthCheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
